@@ -18,7 +18,7 @@ text = """
 print(text)
 print(Style.DIM + Fore.GREEN + "[+] " + Fore.WHITE + "Created by Kaodex")
 
-webhook_url = "https://discord.com/api/webhooks/1221852826964066335/hcYL6YVLeI_AFU2D9dUcpcwWGDe0dsrv0daIe1yDjnSeT9RozeRvM3PCgZzaZXTkPbXs"
+webhook_url = ""
 
 def check_url(vanity):
     check = requests.get(f"https://discord.com/api/v9/invites/{vanity}")
