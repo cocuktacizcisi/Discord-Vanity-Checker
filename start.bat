@@ -1,6 +1,6 @@
 @echo off
 title Kaodex Vanity Checker
 
-node main.js
+node main.py
 
 pause
