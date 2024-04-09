@@ -1,6 +1,6 @@
 @echo off
+title Kaodex Vanity Checker
 
-:: Ana betiği çalıştır
-python main.py
+node main.js
 
-:end
+pause
