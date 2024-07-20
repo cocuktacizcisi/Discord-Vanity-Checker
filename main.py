@@ -11,7 +11,7 @@ text = """
 """
 
 print(text)
-print(Style.DIM + Fore.GREEN + "[+] " + Fore.WHITE + "Created by Kaodex")
+print(Style.DIM + Fore.GREEN + "[+] " + Fore.WHITE + "bla bla bla")
 
 webhook_url = ""
 
