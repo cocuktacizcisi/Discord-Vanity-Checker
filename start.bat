@@ -1,6 +1,5 @@
 @echo off
-title Kaodex Vanity Checker
-
+title boklu checker
 node main.py
 
 pause
